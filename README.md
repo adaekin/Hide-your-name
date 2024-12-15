@@ -15,3 +15,4 @@ https://www.youtube.com/watch?v=PTh99iQkXik
 - My Discord Name: realekin
 - My Discord Server: https://discord.gg/aS55nXvy88
 
+# Special thanks for [ai-kana](https://github.com/ai-kana)
